@@ -2,10 +2,10 @@
 
 I'm Matt! I'm a Senior Software Engineer on the Community team at Twitch, building the software that powers [Extensions and other cool developer products](https://dev.twitch.tv/). In my time at Twitch, I've worked on the Extensions platform, services, developer tools, and building [an official League of Legends extension](https://dashboard.twitch.tv/extensions/vysfim0ck7k5a65fcr0d0t1x5jllpq) with the amazing folks at Riot Games.
 
-As a game developer in a previous life, I like to stream whatever game I'm into at the moment, and the occasional game development stream of my current side project on [my Twitch channel](https://twitch.tv/misterhex). Stop by and say hello!
+I like to stream whatever game I'm into at the moment, and the occasional game development or graphics programming stream of my current side projects on [my Twitch channel](https://twitch.tv/misterhex). Stop by and say hello!
 
 - 😄 Pronouns: he/him
-- 🔭 In my spare time, I'm currently working on gamedev and graphics tech in Rust.
+- 🦀 In my spare time, I'm currently working on gamedev and graphics tech in Rust.
 - 🐤 Follow me on Twitter [@mattrudder](https://twitter.com/mattrudder)
 - 🕹 Hang out with me on my Twitch channel [twitch.tv/misterhex](https://twitch.tv/misterhex)
 
