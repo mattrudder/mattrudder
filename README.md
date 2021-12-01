@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt! I'm a Senior Software Engineer on the Community team at Twitch, building the software that powers [Extensions and other cool developer products](https://dev.twitch.tv/). In my time at Twitch, I've worked on the Extensions platform, services, developer tools, and building [an official League of Legends extension](https://dashboard.twitch.tv/extensions/vysfim0ck7k5a65fcr0d0t1x5jllpq) with the amazing folks at Riot Games.
+I'm Matt! I'm a Senior Software Engineer on the Community team at Twitch, building the software that powers [Extensions and other cool developer products](https://dev.twitch.tv/). In my time at Twitch, I've worked on the Extensions platform, services, developer tools, and building [an official League of Legends extension](https://blog.twitch.tv/en/2020/02/20/live-tracker-extension-for-league-of-legends-get-live-and-on-demand-stats-for-league-matches/) with the amazing folks at Riot Games.
 
 I like to stream whatever game I'm into at the moment, and the occasional game development or graphics programming stream of my current side projects on [my Twitch channel](https://twitch.tv/misterhex). Stop by and say hello!
 
