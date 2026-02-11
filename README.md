@@ -6,7 +6,7 @@ I like to stream whatever game I'm into at the moment, and the occasional game d
 
 - 😄 Pronouns: he/him
 - 🛠️ In my spare time, I'm currently working on gamedev and graphics tech in a bunch of different programming languages.
-- 🐤 Follow me on Twitter [@mattrudder](https://twitter.com/mattrudder)
+- 🦋 Follow me on BlueSky [@rudder.dev](https://bsky.app/profile/rudder.dev)
 - 🕹 Hang out with me on my Twitch channel [twitch.tv/misterhex](https://twitch.tv/misterhex)
 
 <!--
